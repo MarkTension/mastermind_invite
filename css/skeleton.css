@@ -40,6 +40,19 @@
   margin-right: 7%;
 }
 
+.header {
+  color: CornflowerBlue;
+}
+
+#bodytext {
+  color: black;
+  text-align: justify;
+  font-size: 1.2em;
+  font-weight: 200;
+  margin-left: 7%;
+  margin-right: 7%;
+}
+
 #line {
   margin-left: 7%;
   margin-right: 7%;
